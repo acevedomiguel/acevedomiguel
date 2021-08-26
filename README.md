@@ -15,6 +15,10 @@ Space is a growing market from infrastructure, communication, embedded system, s
 
 you can buy me a coffee anytime: https://www.buymeacoffee.com/acevedomiguel
 
+[![Linkedin Badge](https://img.shields.io/badge/-acevedomiguel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acevedomiguel/)](https://www.linkedin.com/in/acevedomiguel/)
+[![Instagram Badge](https://img.shields.io/badge/-acevedomiguel-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/acevedomiguel/)](https://instagram.com/acevedomiguel)
+[![Gmail Badge](https://img.shields.io/badge/-me@acevedomiguel.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@acevedomiguel.com)](mailto:me@acevedomiguel.com)
+
 <!--
 **acevedomiguel/acevedomiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
