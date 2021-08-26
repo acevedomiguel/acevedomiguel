@@ -13,6 +13,8 @@ Plans for the future?
 
 Space is a growing market from infrastructure, communication, embedded system, security, reliability, I'm exploring future opportunities, and here down to earth IoT still expanding, smart building and even smart cities.
 
+you can buy me a coffee anytime: https://www.buymeacoffee.com/acevedomiguel
+
 <!--
 **acevedomiguel/acevedomiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
