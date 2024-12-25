@@ -15,7 +15,7 @@ Space is a growing market from infrastructure, communication, embedded system, s
 
 you can buy me a coffee anytime: https://www.buymeacoffee.com/acevedomiguel
 
-[![Twitter Badge](https://img.shields.io/badge/-faultydev-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/faultydev/)](https://twitter.com/faultydev)
+[![BlueSky Badge](https://img.shields.io/badge/-acevedomiguel-blue?style=flat-square&logo=bluesky&logoColor=white&link=https://bsky.app/profile/acevedomiguel.bsky.social)](https://bsky.app/profile/acevedomiguel.bsky.social)
 [![Linkedin Badge](https://img.shields.io/badge/-acevedomiguel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acevedomiguel/)](https://www.linkedin.com/in/acevedomiguel/)
 [![Instagram Badge](https://img.shields.io/badge/-acevedomiguel-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/acevedomiguel/)](https://instagram.com/acevedomiguel)
 [![Gmail Badge](https://img.shields.io/badge/-me@acevedomiguel.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@acevedomiguel.com)](mailto:me@acevedomiguel.com)
@@ -25,7 +25,7 @@ you can buy me a coffee anytime: https://www.buymeacoffee.com/acevedomiguel
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
